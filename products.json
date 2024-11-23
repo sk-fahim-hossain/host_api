@@ -1,5 +1,4 @@
-{
-    "products" : [
+ [
         {
             "id": 1,
             "title": "HP Laptop 14-DQ0052DX Intel Celeron N4120 4GB RAM, 64GB eMMC, Windows 11 - 685K1UA",
@@ -72,4 +71,4 @@
           "price": 675,
           "reviews": 524
         }
-    ]}
+    ]
