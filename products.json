@@ -32,7 +32,7 @@
             "reviews": 362
         },
         {
-          "id": 1,
+          "id": 5,
           "title": "24inch LED Monitor with IPS panel and Borderless Design LF24T350FHMXZN  Samsung Levant",
           "image": "https://images.samsung.com/is/image/samsung/p6pim/za/lf24t350fhaxxa/gallery/za-t35f-374271-lf24t350fhaxxa-516514409?$650_519_PNG$",  
           "category": "Monitor",
@@ -40,7 +40,7 @@
           "reviews": 524
         },
         {
-          "id": 2,
+          "id": 6,
           "title": "Dell UltraSharp 27-inch 4K Monitor",
           "image": "https://i.dell.com/is/image/DellContent//content/dam/images/products/electronics-and-accessories/dell/monitors/s-series/s2721qs/s2721qs-cfp-00025lf095-gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=891&qlt=100,1&resMode=sharp2&size=891,804&chrss=full", 
           "category": "Monitor",
@@ -48,7 +48,7 @@
           "reviews": 890
         },
         {
-          "id": 1,
+          "id": 7,
           "title": "HP Laptop 14-DQ0052DX Intel Celeron N4120 4GB RAM, 64GB eMMC, Windows 11 - 685K1UA",
           "image": "https://techmall.com.ng/wp-content/uploads/2024/08/HP-Laptop-14-EP0792-2.png",
           "category": "Laptop",
@@ -56,7 +56,7 @@
           "reviews": 112
         },
         {
-          "id": 2,
+          "id": 8,
           "title": "24inch LED Monitor with IPS panel and Borderless Design LF24T350FHMXZN  Samsung Levant",
           "image": "https://images.philips.com/is/image/philipsconsumer/c21144b78aff43aab2fab01c00c2c149?$pnglarge$&wid=1250",
           "category": "Monitor",
@@ -64,7 +64,7 @@
           "reviews": 524
         },
         {
-          "id": 3,
+          "id": 9,
           "title": "Oppo X1 128gb",
           "image": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/featured/640_640-purple.png.thumb.webp",
           "category": "Phone",
